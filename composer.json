@@ -1,0 +1,8 @@
+{
+  "name": "thomas-redstone/contact-form-7-datepicker",
+  "description": "A fork of https://github.com/bmarshall511/contact-form-7-datepicker which provides compatibility with current versions of Contact Form 7",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "v1.0.6"
+  }
+}
